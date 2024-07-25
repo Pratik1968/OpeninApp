@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:title="Links"
+    android:icon="@drawable/ic_link"
+    android:id="@+id/action_link"
+    />
+    <item
+        android:title="Courses"
+        android:icon="@drawable/ic_magazine"
+        android:id="@+id/action_courses"
+        />
+    <item
+        android:title=""
+        android:id="@+id/fab"
+        />
+    <item
+        android:title="Campaigns"
+        android:icon="@drawable/ic_media"
+android:id="@+id/action_campaigns"
+        />
+    <item
+        android:title="Profile"
+        android:icon="@drawable/ic_profile"
+        android:id="@+id/action_profile"
+        />
+
+</menu>
